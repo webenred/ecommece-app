@@ -1,0 +1,17 @@
+{
+  "name": "ecommerce-app",
+  "version": "1.0.0",
+  "description": "A web application for an ecommerce business.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ecommerce",
+    "Web",
+    "application",
+    "Management"
+  ],
+  "author": "Reda Benabass",
+  "license": "ISC"
+}
