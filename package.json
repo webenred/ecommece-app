@@ -13,5 +13,8 @@
     "Management"
   ],
   "author": "Reda Benabass",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
 }
