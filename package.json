@@ -12,7 +12,7 @@
     "application",
     "Management"
   ],
-  "author": "Reda Benabass",
+  "author": "Reda Benabbas",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.4.1"
